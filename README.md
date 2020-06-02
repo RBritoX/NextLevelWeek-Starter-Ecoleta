@@ -16,7 +16,9 @@
   🚧 In Development 🚧
 </h3>
 
-## 🚀 Next Level Week Starter 1 of [RocketSeat](https://rocketseat.com.br/)
+## 🚀 Next Level Week Starter 1
+
+The Next Level Week of [RocketSeat](https://rocketseat.com.br/) came to replace the Omnistack Week, following better for all audiences, from beginners with HTML, CSS and JavaScript, to the most advanced with Node.js, React.js and React Native.
 
 **🎓 Instructor: [Mayk Brito](https://www.linkedin.com/in/maykbrito/)**<br>
 **✍🏼 Layout made in [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=1%3A9) by [Tiago Luchtenberg](https://www.linkedin.com/in/tiago-luchtenberg-0b9a3b97/)**<br>
@@ -28,8 +30,6 @@
 - [ ] **05/06/2020** - My extra
 
 ## ♻️ The Project:
-
-The Next Level Week of [RocketSeat](https://rocketseat.com.br/) came to replace the Omnistack Week, following better for all audiences, from beginners with HTML, CSS and JavaScript, to the most advanced with Node.js, React.js and React Native.<br>
 
 The application created in this first edition of NLW, was the **Ecoleta**. An application designed to help people find collection points efficiently.
 
