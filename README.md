@@ -3,15 +3,15 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/NextLevelWeek-Starter-Ecoleta?color=yellow">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/nextlevelweek-starter-ecoleta?color=yellow">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/NextLevelWeek-Starter-Ecoleta?color=yellow">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/nextlevelweek-starter-ecoleta?color=yellow">
 
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/NextLevelWeek-Starter-Ecoleta?color=yellow">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/nextlevelweek-starter-ecoleta?color=yellow">
 
   <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/45ac7042be6941f0be6cf27d7168a1af">
   
-  <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/NextLevelWeek-Starter-Ecoleta">
+  <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/nextlevelweek-starter-ecoleta">
 </p>
 
 
@@ -20,9 +20,9 @@
 </h3>
 
 <p align="center">
-  ♻️ <a href="#-the-project">The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  ♻️ <a href="#%EF%B8%8F-the-project">The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   🛠 <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  🏁 <a href="#-starting">Starting</a>
+  🏁 <a href="#-starting-the-project">Starting</a>
 </p>
 
 <h3 align="center">
