@@ -31,9 +31,9 @@
 
 ## 🚀 Next Level Week Starter 1 of [RocketSeat](https://rocketseat.com.br/)
 
-**🎓 Instructor: [Mayk Brito](https://www.linkedin.com/in/maykbrito/)**<br>
-**✍🏼 Designer: [Tiago Luchtenberg](https://www.linkedin.com/in/tiago-luchtenberg-0b9a3b97/)**<br>
-**🎨 Layout on [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=1%3A9)**
+- **🎓 Instructor: [Mayk Brito](https://www.linkedin.com/in/maykbrito/)**<br>
+- **✍🏼 Designer: [Tiago Luchtenberg](https://www.linkedin.com/in/tiago-luchtenberg-0b9a3b97/)**<br>
+- **🎨 Layout on [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=1%3A9)**
 
 - [X] **01/06/2020** - Accelerating your evolution (**Introduction**)
 - [ ] **02/06/2020** - Looking at opportunities
