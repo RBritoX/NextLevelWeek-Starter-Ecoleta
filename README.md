@@ -9,7 +9,7 @@
 
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/RBritoX/NextLevelWeek-Starter-Ecoleta">
 
-  <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/45ac7042be6941f0be6cf27d7168a1af">
+  <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/6f990d72ca9944fbbab6035959ac87f1">
   
   <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-GoBarber">
 </p>
