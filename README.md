@@ -1,6 +1,18 @@
 <h1 align="center">
-  <img src="./assets/logo.svg" alt="Ecoleta" width="500">
+  <img src="./public/assets/logo.svg" alt="Ecoleta" width="500">
 </h1>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/RBritoX/NextLevelWeek-Starter-Ecoleta">
+
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/RBritoX/NextLevelWeek-Starter-Ecoleta">
+
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/RBritoX/NextLevelWeek-Starter-Ecoleta">
+
+  <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/45ac7042be6941f0be6cf27d7168a1af">
+  
+  <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-GoBarber">
+</p>
 
 <h3 align="center">
   Index
@@ -12,42 +24,56 @@
   🏁 <a href="#-starting-the-project">Starting</a>
 </p>
 
-<h3 align="center">
-  🚧 In Development 🚧
-</h3>
+<br/>
 
 ## 🚀 Next Level Week Starter 1
 
 The Next Level Week of [RocketSeat](https://rocketseat.com.br/) came to replace the Omnistack Week, following better for all audiences, from beginners with HTML, CSS and JavaScript, to the most advanced with Node.js, React.js and React Native.
 
-This is version **Starter** of NLW, to check the version **Booster**, access the repository <a href="https://github.com/RBritoX/NextLevelWeek-Booster-Ecoleta">here</a>.
+This is version **Starter** of NLW, to check the version **Booster**, access the repository **<a href="https://github.com/RBritoX/NextLevelWeek-Booster-Ecoleta">here</a>**.
 
 **🎓  Instructor: [Mayk Brito](https://www.linkedin.com/in/maykbrito/)**<br>
 **✍🏼  Layout made in [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=1%3A9) by [Tiago Luchtenberg](https://www.linkedin.com/in/tiago-luchtenberg-0b9a3b97/)**<br>
 
-- [X] **01/06/2020** - Accelerating your evolution (**Introduction**)
-- [ ] **02/06/2020** - Looking at opportunities
-- [ ] **03/06/2020** - The stack choice
-- [ ] **04/06/2020** - Up to 2 years in 2 months
-- [ ] **05/06/2020** - My extra
+- [X] **01/06/2020** - Accelerating your evolution
+- [X] **02/06/2020** - Looking at opportunities
+- [X] **03/06/2020** - The stack choice
+- [X] **04/06/2020** - Up to 2 years in 2 months
+- [X] **05/06/2020** - My extra
 
 ## ♻️ The Project:
 
 The application created in this first edition of NLW, was the **Ecoleta**. An application designed to help people find collection points efficiently.
 
-![Captura de Tela 2020-06-02 às 00 50 43](https://user-images.githubusercontent.com/34657005/83478044-33754200-a46b-11ea-8ebb-0816ed7b2de8.png)
+![Captura de Tela 2020-06-06 às 15 26 49](https://user-images.githubusercontent.com/34657005/83951795-86a01980-a80a-11ea-985e-04fb2483bfbc.png)
+![gif1](https://user-images.githubusercontent.com/34657005/83951826-c49d3d80-a80a-11ea-8b07-7455610aef84.gif)
+![gif2](https://user-images.githubusercontent.com/34657005/83951835-df6fb200-a80a-11ea-8f50-1ed326c07b49.gif)
 
 ## 🛠 Technologies:
-
+### 🖥 Front-End
 - *[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)*
 - *[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)*
 - *[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)*
+### 🤖 Back-End
+- *[Node.js](https://nodejs.org/en/)*
+- *[Express](https://expressjs.com/pt-br/)*
+- *[Nodemon](https://nodemon.io/)*
 
 ## 🏁 Starting the project:
 
 First clone the project: `git clone https://github.com/RBritoX/NextLevelWeek-Starter-Ecoleta`
 
-Then open the project folder and click on the file `index.html`
+To run the project, you must open the terminal and run the following commands:
+
+````zsh
+# to download the dependencies
+$ npm i
+
+# to start the application on port 3000
+$ npm run start
+````
+
+Now access `http://localhost:3000/`
 
 ---
 
