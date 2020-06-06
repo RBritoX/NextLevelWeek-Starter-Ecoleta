@@ -43,7 +43,7 @@ This is version **Starter** of NLW, to check the version **Booster**, access the
 
 ## ♻️ The Project:
 
-The application created in this first edition of NLW, was the **Ecoleta**. An application designed to help people find collection points efficiently.
+Taking into account that we are at the international week of the environment, we developed a project totally focused on ecological purposes. Thus was born **Ecoleta**, which serves as a Marketplace that connects companies or some other entity that collects organic or inorganic waste, to people who need to dispose of these materials.
 
 ![Captura de Tela 2020-06-06 às 15 26 49](https://user-images.githubusercontent.com/34657005/83951795-86a01980-a80a-11ea-985e-04fb2483bfbc.png)
 ![gif1](https://user-images.githubusercontent.com/34657005/83951826-c49d3d80-a80a-11ea-8b07-7455610aef84.gif)
